@@ -5,6 +5,7 @@
 3. Disarankan menggunakan XAMPP (Agar sejalan, saya menggunakan versi 3.3.0 )
 4. Jika menggunakan XAMPP pastikan sudah menginstall Node.JS (saya menggunakan versi 21.6.1) karena beberapa command membutuhkannya untuk running
 5. Pastikan sudah memiliki Database yang sudah disiapkan untuk melakukan migrate data
+6. Jika website atau terdapat fitur yang tidak berjalan/eror/hanya loading dapat melakukan refresh page karena website sudah teruji untuk setiap fiturnya bekerja
 
 ## Tata cara menjalankan project:
 
