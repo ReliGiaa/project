@@ -8,7 +8,7 @@
 
 ## Tata cara menjalankan project:
 
-1. Buka Folder Project2 dengan aplikasi editor (Saya menggunakan Visual Studio Code)
+1. Buka Folder Project dengan aplikasi editor (Saya menggunakan Visual Studio Code)
 2. Buka console pada VSC atau bisa dengan shortcut ctrl+j atau dapat menggunakan CMD dan arahakan kedalam folder
 3. Jalankan command: npm install dan composer install
 4. Lakukan penyesuain DB_DATABASE pada file .env (disini saya menggunakan XAMPP untuk local running servernya)
@@ -16,6 +16,12 @@
 6. Jalankan command: php artisan serve (untuk memulai server pada laravel)
 7. Jalankan command: npm run dev (untuk melakukan otomatisasi dengan bantuan vite)
 8. Akses http://127.0.0.1:8000/ untuk memulai website
+
+## Fitur Website Awal:
+1. Website untuk menuju ke website resmi perusahaan
+2. LinkedIn untuk menuju ke LinkedIn resmi perusahaan
+3. Login untuk login kedalam dashboard
+4. Register untuk regist akun user
 
 ## Tampilan Website:
 
